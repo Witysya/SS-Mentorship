@@ -15,8 +15,8 @@ public class Sparrow extends Animal implements eating, flying {
     }
 
     public static void main(String[] args) {
-       Sparrow sparrow = new Sparrow();
-       sparrow.eating();
-       sparrow.flying();
+        Sparrow sparrow = new Sparrow();
+        sparrow.eating();
+        sparrow.flying();
     }
 }
