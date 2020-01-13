@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="531565c7-c357-4a11-91e6-b6d2ce6e7cf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework#4/Homework#4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework#4/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework#2/src/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework#2/src/Sparrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework#3/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework#3/src/Variables.java" afterDir="false" />
-    </list>
+    <list default="true" id="531565c7-c357-4a11-91e6-b6d2ce6e7cf6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +164,19 @@
       <option name="presentableId" value="Default" />
       <updated>1576073327417</updated>
     </task>
+    <task id="LOCAL-00001" summary="list task">
+      <created>1578936178806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578936178806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="list task" />
+    <option name="LAST_COMMIT_MESSAGE" value="list task" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="177" key="#Project_Structure" timestamp="1578310948315">
@@ -200,10 +204,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577106581850" />
-    <state x="600" y="112" key="CommitChangelistDialog2" timestamp="1578936147503">
+    <state x="600" y="112" key="CommitChangelistDialog2" timestamp="1578936177123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="600" y="112" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578936147503" />
+    <state x="600" y="112" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578936177123" />
     <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1578936147530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
