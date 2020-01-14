@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="531565c7-c357-4a11-91e6-b6d2ce6e7cf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework#8/Homework#8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework#8/src/Looper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework#6/src/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework#6/src/Age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework#7/src/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework#7/src/Months.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +38,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +51,7 @@
       <recent name="Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Months">
+  <component name="RunManager" selected="Application.Looper">
     <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Age" />
       <module name="Homework#6" />
@@ -71,13 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Car" />
-      <module name="Homework#4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FirstHM" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork.FirstHM" />
       <module name="Testing" />
@@ -94,6 +88,13 @@
     <configuration name="Lists$Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lists$Car" />
       <module name="Homework#4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Looper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Looper" />
+      <module name="Homework#8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,19 +130,19 @@
       <item itemvalue="Application.FirstHM" />
       <item itemvalue="Application.BottlesOfBeer" />
       <item itemvalue="Application._51" />
-      <item itemvalue="Application.Car" />
       <item itemvalue="Application.Lists$Car" />
       <item itemvalue="Application.Numbers" />
       <item itemvalue="Application.Age" />
       <item itemvalue="Application.Months" />
+      <item itemvalue="Application.Looper" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Looper" />
         <item itemvalue="Application.Months" />
         <item itemvalue="Application.Age" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Lists$Car" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -183,10 +184,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="list task" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="177" key="#Project_Structure" timestamp="1578937803121">
+    <state x="552" y="177" key="#Project_Structure" timestamp="1578996677877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578937803121" />
+    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578996677877" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578493756753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -212,25 +213,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="600" y="112" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578936177123" />
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1578996409385">
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom" timestamp="1578998254926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578996409385" />
+    <state width="1877" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578998254926" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577193786591" />
-    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1578996409385">
+    <state width="1877" height="179" key="GridCell.Tab.0.center" timestamp="1578998254926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578996409385" />
+    <state width="1877" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578998254926" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577193786591" />
-    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1578996409385">
+    <state width="1877" height="179" key="GridCell.Tab.0.left" timestamp="1578998254926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578996409385" />
+    <state width="1877" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578998254926" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577193786591" />
-    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1578996409385">
+    <state width="1877" height="179" key="GridCell.Tab.0.right" timestamp="1578998254926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578996409385" />
+    <state width="1877" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578998254926" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577193786591" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1578940824628">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -264,10 +265,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2001" y="0" width="1414" height="719" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576685383941" />
-    <state x="342" y="139" key="new project wizard" timestamp="1578995540936">
+    <state x="342" y="139" key="new project wizard" timestamp="1578996576507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="139" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578995540936" />
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578996576507" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1578501810150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
