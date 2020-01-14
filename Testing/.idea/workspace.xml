@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="531565c7-c357-4a11-91e6-b6d2ce6e7cf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework#6/src/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework#6/src/Age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework#6/Age.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework#6/Age.class" afterDir="false" />
-    </list>
+    <list default="true" id="531565c7-c357-4a11-91e6-b6d2ce6e7cf6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,10 +260,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2001" y="0" width="1414" height="719" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576685383941" />
-    <state x="342" y="139" key="new project wizard" timestamp="1578939109594">
+    <state x="342" y="139" key="new project wizard" timestamp="1578995540936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="139" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578939109594" />
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578995540936" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1578501810150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
