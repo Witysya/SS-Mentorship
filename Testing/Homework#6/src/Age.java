@@ -9,10 +9,11 @@ public class Age {
         if (age < 18) {
             System.out.println("Don't smoke, don't drink");
         }
-        if (age >= 18 || age <= 20) {
+        else {}
+        if (age >= 18 && age <= 20) {
             System.out.println("You can smoke, and drink beer");
         }
-        if (age > 20 || age <= 60) {
+        if (age >= 20 && age <= 60) {
             System.out.println("You smoke, and drink");
         }
         if (age > 60) {
