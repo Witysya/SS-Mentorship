@@ -8,7 +8,7 @@ public class Age {
         age = scanner.nextInt();
         if (age < 18) {
             System.out.println("Don't smoke, don't drink");
-        } 
+        }
         if (age >= 18 && age <= 20) {
             System.out.println("You can smoke, and drink beer");
         }
