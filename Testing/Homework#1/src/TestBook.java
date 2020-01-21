@@ -1,4 +1,4 @@
-public class TestBook extends Book {
+public class TestBook  {
     public static void main(String[] args) {
         Book book = new Book();
         author = "Andrzej Sapkowski";
@@ -6,6 +6,7 @@ public class TestBook extends Book {
         lastReadedPage = 3;
         name = "Witcher";
         owner = "me";
+        //реалізувати конструктор
     }
 
 }
